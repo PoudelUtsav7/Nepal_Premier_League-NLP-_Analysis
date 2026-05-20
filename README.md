@@ -1,8 +1,12 @@
 ## 🇳🇵 Nepal Premier League - Cricket Analytics Dashboard
 An end-to-end data analytics project covering the Nepal Premier Leagure (NPL), combining data collection, cleaning, transformation, and interactive Power BI dashboards batting and bowling performance analysis
 
+----
+
 ## Project Overview
 The Nepal Premier League is Nepal's premier T20 cricket tournament featuring local and international players across 8 franchises. This project collects innings-level data from all 32 matches, cleans and transforms it into analysis-ready datasets, and visualizes performance insights through interactive Power BI dashboards.
+
+----
 
 ## Objective
 The primary goal of this project is to support player buying decisions by identifying:
@@ -11,15 +15,18 @@ The top 3 batsmen based on runs, strike rate, batting average, and boundary %
 The top 3 bowlers based on wickets, economy rate, bowling average, and strike rate
 All dashboards and metrics are designed to support this selection process using real NPL match data.
 
+---
+
 ## Datasets
 Data was collected from ESPNcricinfo covering all 32 NPL matches.
 
-Dataset            | Descriptions
---------------------------------------
-batting_combined_  | Runs, balls, 4s, 6s, Strike rate, dismissal
-bowling_combined_  | Overs, wickets, runs, economy, wides, no-ball
-player_info_       | Batting style, bowling style, role, country, name
+| Dataset | Description |
+|---|---|
+| `batting_combined_` | Runs, balls, 4s, 6s, strike rate, dismissal |
+| `bowling_combined_` | Overs, wickets, runs, economy, wides, no-balls |
+| `player_info_` | Batting style, bowling style, role, country, name |
 
+----
 
 ## Data Cleaning and Transformation
 All cleaning done in main.ipynb using pandas:
@@ -29,6 +36,7 @@ All cleaning done in main.ipynb using pandas:
 - Validated data types and shapes across all datasets
 - and so forth and so on... 
 
+---
 
 # Power BI Dashboard
 Dashboard 1 : 
@@ -36,6 +44,8 @@ Dashboard 1 :
 
 Dashboard 2: 
 <img width="1286" height="721" alt="image" src="https://github.com/user-attachments/assets/f204661c-1e2c-414d-9bc7-87c6422bf13e" />
+
+---
 
 ## Key DAX Measures
 Batting: 
@@ -55,8 +65,8 @@ Bowling:
 - Bowling Average = DIVIDE([Run Conceded], [Wickets])
 - balls bowled = SUM(bowling_combined[Balls])
 
-  **Batting Metrics**
-  - Total Runs :
+**Batting Metrics**
+- Total Runs :
   Total number of runs scored by the batsman.
 
 - Total Innings Batted :
