@@ -11,9 +11,9 @@ The Nepal Premier League is Nepal's premier T20 cricket tournament featuring loc
 ## Objective
 The primary goal of this project is to support player buying decisions by identifying:
 
-The top 3 batsmen based on runs, strike rate, batting average, and boundary %
-The top 3 bowlers based on wickets, economy rate, bowling average, and strike rate
-All dashboards and metrics are designed to support this selection process using real NPL match data.
+- The top 3 batsmen based on runs, strike rate, batting average, and boundary %
+- The top 3 bowlers based on wickets, economy rate, bowling average, and strike rate
+- All dashboards and metrics are designed to support this selection process using real NPL match data.
 
 ---
 
