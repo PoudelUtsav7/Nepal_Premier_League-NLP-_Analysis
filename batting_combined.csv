@@ -1,0 +1,547 @@
+match_no,match,innings,batsman,runs,balls,4s,6s,strike_rate,out/ not_out
+1,Janakpur Bolts vs Kathmandu Gorkhas,1,Lahiru Milantha ,7,12,1,0,58.33,out
+1,Janakpur Bolts vs Kathmandu Gorkhas,1,Aasif Sheikh,54,41,6,1,131.70,out
+1,Janakpur Bolts vs Kathmandu Gorkhas,1,Anil Sah (c),0,2,0,0,0.00,out
+1,Janakpur Bolts vs Kathmandu Gorkhas,1,Jan Nicol Loftie-Eaton,2,8,0,0,25.00,out
+1,Janakpur Bolts vs Kathmandu Gorkhas,1,Sanjay Krishnamurthi,2,6,0,0,33.33,out
+1,Janakpur Bolts vs Kathmandu Gorkhas,1,Mayan Yadav,34,29,2,1,117.24,not out
+1,Janakpur Bolts vs Kathmandu Gorkhas,1,Lahiru Samarakoon,22,21,0,2,104.76,out
+1,Janakpur Bolts vs Kathmandu Gorkhas,1,Rupesh Singh,4,1,1,0,400.00,not out
+1,Janakpur Bolts vs Kathmandu Gorkhas,2,Aakash Tripathi,39,45,5,0,86.66,out
+1,Janakpur Bolts vs Kathmandu Gorkhas,2,Ben Charlesworth,46,23,5,3,200.00,out
+1,Janakpur Bolts vs Kathmandu Gorkhas,2,Bhim Sharki,3,7,0,0,42.85,out
+1,Janakpur Bolts vs Kathmandu Gorkhas,2,Milind Kumar,19,22,0,1,86.36,out
+1,Janakpur Bolts vs Kathmandu Gorkhas,2,John Simpson ,13,6,1,1,216.66,out
+1,Janakpur Bolts vs Kathmandu Gorkhas,2,Gerhard Erasmus,1,1,0,0,100.00,not out
+1,Janakpur Bolts vs Kathmandu Gorkhas,2,Mohammad Aadil Alam,8,4,0,1,200.00,not out
+2,Chitwan Rhinos vs Karnali Yaks,1,Priyank Panchal,90,48,7,6,187.50,out
+2,Chitwan Rhinos vs Karnali Yaks,1,Max O'Dowd,20,30,1,0,66.66,out
+2,Chitwan Rhinos vs Karnali Yaks,1,Mark Watt,16,21,1,0,76.19,out
+2,Chitwan Rhinos vs Karnali Yaks,1,Pawan Sarraf,27,16,1,3,168.75,not out
+2,Chitwan Rhinos vs Karnali Yaks,1,Najibullah Zadran,4,5,0,0,80.00,not out
+2,Chitwan Rhinos vs Karnali Yaks,2,Deepak Bohara,42,36,6,1,116.66,out
+2,Chitwan Rhinos vs Karnali Yaks,2,Dawid Malan,6,6,1,0,100.00,out
+2,Chitwan Rhinos vs Karnali Yaks,2,Dev Khanal,2,2,0,0,100.00,out
+2,Chitwan Rhinos vs Karnali Yaks,2,Ravi Bopara,52,36,3,3,144.44,out
+2,Chitwan Rhinos vs Karnali Yaks,2,Kushal Malla (c),20,15,0,2,133.33,out
+2,Chitwan Rhinos vs Karnali Yaks,2,Saif Zaib,38,16,2,4,237.50,out
+2,Chitwan Rhinos vs Karnali Yaks,2,Arjun Saud ,8,4,0,1,200.00,not out
+2,Chitwan Rhinos vs Karnali Yaks,2,Sohail Tanvir,0,0,0,0,-,not out
+3,Biratnagar Kings vs Pokhara Avengers,1,Lokesh Bam ,72,48,1,7,150.00,out
+3,Biratnagar Kings vs Pokhara Avengers,1,George Munsey,10,6,1,1,166.66,out
+3,Biratnagar Kings vs Pokhara Avengers,1,Martin Guptill,61,35,3,5,174.28,out
+3,Biratnagar Kings vs Pokhara Avengers,1,Shubham Ranjane,38,16,3,2,237.50,out
+3,Biratnagar Kings vs Pokhara Avengers,1,Basir Ahamad,23,13,1,1,176.92,out
+3,Biratnagar Kings vs Pokhara Avengers,1,Narayan Joshi,11,3,1,1,366.66,not out
+3,Biratnagar Kings vs Pokhara Avengers,1,Pratis GC,0,1,0,0,0.00,out
+3,Biratnagar Kings vs Pokhara Avengers,2,Dinesh Kharel,7,6,0,1,116.66,out
+3,Biratnagar Kings vs Pokhara Avengers,2,Adam Rossington ,39,21,5,2,185.71,out
+3,Biratnagar Kings vs Pokhara Avengers,2,Kushal Bhurtel (c),59,31,5,4,190.32,out
+3,Biratnagar Kings vs Pokhara Avengers,2,James Neesham,0,1,0,0,0.00,out
+3,Biratnagar Kings vs Pokhara Avengers,2,Trit Raj Das,0,2,0,0,0.00,out
+3,Biratnagar Kings vs Pokhara Avengers,2,Kiran Thagunna,8,13,1,0,61.53,out
+3,Biratnagar Kings vs Pokhara Avengers,2,Abhisekh Tiwari,11,9,0,1,122.22,out
+3,Biratnagar Kings vs Pokhara Avengers,2,Dan Douthwaite,29,20,4,1,145.00,out
+3,Biratnagar Kings vs Pokhara Avengers,2,Matt Taylor,4,6,0,0,66.66,out
+3,Biratnagar Kings vs Pokhara Avengers,2,Aakash Chand,4,3,1,0,133.33,out
+3,Biratnagar Kings vs Pokhara Avengers,2,Sagar Dhakal,1,1,0,0,100.00,not out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,1,Josh Brown,0,2,0,0,0.00,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,1,Binod Bhandari ,0,2,0,0,0.00,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,1,Chris Lynn,2,10,0,0,20.00,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,1,Aarif Sheikh,25,24,3,0,104.16,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,1,Ishan Pandey,11,9,1,1,122.22,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,1,Dipendra Singh Airee (c),39,30,3,1,130.00,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,1,Naren Saud,6,12,0,0,50.00,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,1,Harmeet Singh,53,20,2,6,265.00,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,1,Scott Kuggeleijn,1,3,0,0,33.33,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,1,Hemant Dhami,3,5,0,0,60.00,not out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,1,Abinash Bohara,1,3,0,0,33.33,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,2,Aakash Tripathi,34,30,1,2,113.33,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,2,Ben Charlesworth,8,8,2,0,100.00,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,2,Bhim Sharki,12,10,0,1,120.00,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,2,Santosh Yadav,1,3,0,0,33.33,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,2,John Simpson ,24,18,2,1,133.33,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,2,Milind Kumar,11,14,1,0,78.57,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,2,Mohammad Aadil Alam,0,1,0,0,0.00,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,2,Rashid Khan,6,8,0,0,75.00,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,2,Sunny Patel,10,7,1,0,142.85,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,2,Karan KC (c),1,2,0,0,50.00,out
+4,Kathmandu Gorkhas vs Sudur Paschim Royals,2,Shahab Alam,0,1,0,0,0.00,not out
+5,Chitwan Rhinos vs Lumbini Lions,1,Deepak Bohara,10,12,1,0,83.33,out
+5,Chitwan Rhinos vs Lumbini Lions,1,Dawid Malan,0,1,0,0,0.00,out
+5,Chitwan Rhinos vs Lumbini Lions,1,Dev Khanal,14,19,0,1,73.68,out
+5,Chitwan Rhinos vs Lumbini Lions,1,Ravi Bopara,66,55,4,3,120.00,out
+5,Chitwan Rhinos vs Lumbini Lions,1,Kushal Malla (c),21,18,0,1,116.66,out
+5,Chitwan Rhinos vs Lumbini Lions,1,Saif Zaib,15,7,2,1,214.28,out
+5,Chitwan Rhinos vs Lumbini Lions,1,Arjun Saud ,8,5,1,0,160.00,not out
+5,Chitwan Rhinos vs Lumbini Lions,1,Sohail Tanvir,5,3,1,0,166.66,out
+5,Chitwan Rhinos vs Lumbini Lions,2,Sundeep Jora,28,18,4,0,155.55,out
+5,Chitwan Rhinos vs Lumbini Lions,2,D'Arcy Short,11,6,1,1,183.33,out
+5,Chitwan Rhinos vs Lumbini Lions,2,Rohit Paudel (c),39,44,1,0,88.63,out
+5,Chitwan Rhinos vs Lumbini Lions,2,Dilip Nath,10,15,1,0,66.66,out
+5,Chitwan Rhinos vs Lumbini Lions,2,Gulbadin Naib,44,24,3,3,183.33,not out
+5,Chitwan Rhinos vs Lumbini Lions,2,JJ Smit,4,4,1,0,100.00,not out
+6,Pokhara Avengers vs Sudur Paschim Royals,1,Josh Brown,68,35,6,5,194.28,out
+6,Pokhara Avengers vs Sudur Paschim Royals,1,Binod Bhandari ,43,42,6,0,102.38,out
+6,Pokhara Avengers vs Sudur Paschim Royals,1,Chris Lynn,31,13,4,2,238.46,out
+6,Pokhara Avengers vs Sudur Paschim Royals,1,Dipendra Singh Airee (c),15,10,1,1,150.00,out
+6,Pokhara Avengers vs Sudur Paschim Royals,1,Harmeet Singh,4,6,1,0,66.66,out
+6,Pokhara Avengers vs Sudur Paschim Royals,1,Scott Kuggeleijn,8,6,0,1,133.33,out
+6,Pokhara Avengers vs Sudur Paschim Royals,1,Aarif Sheikh,0,3,0,0,0.00,out
+6,Pokhara Avengers vs Sudur Paschim Royals,1,Ishan Pandey,6,6,0,0,100.00,not out
+6,Pokhara Avengers vs Sudur Paschim Royals,1,Naren Saud,4,1,1,0,400.00,not out
+6,Pokhara Avengers vs Sudur Paschim Royals,2,Dinesh Kharel,6,9,1,0,66.66,out
+6,Pokhara Avengers vs Sudur Paschim Royals,2,Adam Rossington ,1,2,0,0,50.00,out
+6,Pokhara Avengers vs Sudur Paschim Royals,2,Kushal Bhurtel (c),53,32,4,4,165.62,out
+6,Pokhara Avengers vs Sudur Paschim Royals,2,Kiran Thagunna,9,8,0,0,112.50,out
+6,Pokhara Avengers vs Sudur Paschim Royals,2,James Neesham,47,25,2,5,188.00,out
+6,Pokhara Avengers vs Sudur Paschim Royals,2,Sumeet Verma,6,7,0,0,85.71,out
+6,Pokhara Avengers vs Sudur Paschim Royals,2,Abhisekh Tiwari,3,13,0,0,23.07,out
+6,Pokhara Avengers vs Sudur Paschim Royals,2,Dan Douthwaite,37,16,1,5,231.25,out
+6,Pokhara Avengers vs Sudur Paschim Royals,2,Bipin Khatri,7,7,1,0,100.00,not out
+6,Pokhara Avengers vs Sudur Paschim Royals,2,Aakash Chand,1,1,0,0,100.00,not out
+7,Karnali Yaks vs Lumbini Lions,1,Sundeep Jora,1,8,0,0,12.50,out
+7,Karnali Yaks vs Lumbini Lions,1,D'Arcy Short,19,14,4,0,135.71,out
+7,Karnali Yaks vs Lumbini Lions,1,Rohit Paudel (c),49,43,4,2,113.95,out
+7,Karnali Yaks vs Lumbini Lions,1,Dilip Nath,6,4,1,0,150.00,out
+7,Karnali Yaks vs Lumbini Lions,1,Gulbadin Naib,7,9,0,0,77.77,out
+7,Karnali Yaks vs Lumbini Lions,1,Sumit Maharjan,4,10,0,0,40.00,out
+7,Karnali Yaks vs Lumbini Lions,1,JJ Smit,23,14,2,1,164.28,out
+7,Karnali Yaks vs Lumbini Lions,1,Ruben Trumpelmann,29,14,1,3,207.14,not out
+7,Karnali Yaks vs Lumbini Lions,1,Sameer Ali Musalman ,1,2,0,0,50.00,out
+7,Karnali Yaks vs Lumbini Lions,1,Sher Malla,7,2,0,1,350.00,not out
+7,Karnali Yaks vs Lumbini Lions,2,Priyank Panchal,12,10,1,1,120.00,out
+7,Karnali Yaks vs Lumbini Lions,2,Mark Watt,114,44,6,12,259.09,not out
+7,Karnali Yaks vs Lumbini Lions,2,William Bosisto,29,20,2,1,145.00,not out
+8,Biratnagar Kings vs Kathmandu Gorkhas,1,Aakash Tripathi,0,5,0,0,0.00,out
+8,Biratnagar Kings vs Kathmandu Gorkhas,1,Ben Charlesworth ,32,33,1,2,96.96,out
+8,Biratnagar Kings vs Kathmandu Gorkhas,1,Ricardo Vasconcelos,3,4,0,0,75.00,out
+8,Biratnagar Kings vs Kathmandu Gorkhas,1,Pratik Shrestha,2,6,0,0,33.33,out
+8,Biratnagar Kings vs Kathmandu Gorkhas,1,Gerhard Erasmus,10,18,1,0,55.55,out
+8,Biratnagar Kings vs Kathmandu Gorkhas,1,Santosh Yadav,26,24,0,1,108.33,out
+8,Biratnagar Kings vs Kathmandu Gorkhas,1,Mohammad Aadil Alam,48,25,4,2,192.00,not out
+8,Biratnagar Kings vs Kathmandu Gorkhas,1,John Simpson,7,5,0,0,140.00,not out
+8,Biratnagar Kings vs Kathmandu Gorkhas,2,Lokesh Bam ,14,10,0,2,140.00,out
+8,Biratnagar Kings vs Kathmandu Gorkhas,2,George Munsey,36,16,5,2,225.00,out
+8,Biratnagar Kings vs Kathmandu Gorkhas,2,Martin Guptill,25,19,2,1,131.57,out
+8,Biratnagar Kings vs Kathmandu Gorkhas,2,Basir Ahamad,19,17,1,1,111.76,out
+8,Biratnagar Kings vs Kathmandu Gorkhas,2,Naren Bhatta,24,30,2,0,80.00,out
+8,Biratnagar Kings vs Kathmandu Gorkhas,2,Shubham Ranjane,6,8,0,0,75.00,not out
+8,Biratnagar Kings vs Kathmandu Gorkhas,2,Sandeep Lamichhane (c),9,3,2,0,300.00,not out
+9,Biratnagar Kings vs Janakpur Bolts,1,Lokesh Bam ,28,26,2,1,107.69,out
+9,Biratnagar Kings vs Janakpur Bolts,1,George Munsey,10,7,2,0,142.85,out
+9,Biratnagar Kings vs Janakpur Bolts,1,Martin Guptill,13,15,1,0,86.66,out
+9,Biratnagar Kings vs Janakpur Bolts,1,Basir Ahamad,36,35,0,3,102.85,out
+9,Biratnagar Kings vs Janakpur Bolts,1,Shubham Ranjane,37,29,2,2,127.58,out
+9,Biratnagar Kings vs Janakpur Bolts,1,Narayan Joshi,2,4,0,0,50.00,out
+9,Biratnagar Kings vs Janakpur Bolts,1,Marchant de Lange,0,1,0,0,0.00,out
+9,Biratnagar Kings vs Janakpur Bolts,1,Pratis GC,2,2,0,0,100.00,not out
+9,Biratnagar Kings vs Janakpur Bolts,1,Sandeep Lamichhane (c),0,1,0,0,0.00,not out
+9,Biratnagar Kings vs Janakpur Bolts,2,Lahiru Milantha ,23,22,2,1,104.54,out
+9,Biratnagar Kings vs Janakpur Bolts,2,Aasif Sheikh,13,11,2,0,118.18,out
+9,Biratnagar Kings vs Janakpur Bolts,2,Anil Sah (c),4,14,0,0,28.57,out
+9,Biratnagar Kings vs Janakpur Bolts,2,Sanjay Krishnamurthi,20,12,2,1,166.66,out
+9,Biratnagar Kings vs Janakpur Bolts,2,Jan Nicol Loftie-Eaton,41,30,4,1,136.66,out
+9,Biratnagar Kings vs Janakpur Bolts,2,Mayan Yadav,4,9,0,0,44.44,out
+9,Biratnagar Kings vs Janakpur Bolts,2,Rupesh Singh,8,11,0,0,72.72,out
+9,Biratnagar Kings vs Janakpur Bolts,2,Sangeeth Cooray,0,1,0,0,0.00,out
+9,Biratnagar Kings vs Janakpur Bolts,2,Aaditya Mahata,1,3,0,0,33.33,out
+9,Biratnagar Kings vs Janakpur Bolts,2,Kishor Mahato,2,4,0,0,50.00,not out
+9,Biratnagar Kings vs Janakpur Bolts,2,Lalit Rajbanshi,5,3,1,0,166.66,not out
+10,Karnali Yaks vs Sudur Paschim Royals,1,Josh Brown,0,1,0,0,0.00,out
+10,Karnali Yaks vs Sudur Paschim Royals,1,Binod Bhandari ,11,13,1,0,84.61,out
+10,Karnali Yaks vs Sudur Paschim Royals,1,Chris Lynn,18,20,2,0,90.00,out
+10,Karnali Yaks vs Sudur Paschim Royals,1,Aarif Sheikh,27,25,3,0,108.00,out
+10,Karnali Yaks vs Sudur Paschim Royals,1,Ishan Pandey,2,2,0,0,100.00,out
+10,Karnali Yaks vs Sudur Paschim Royals,1,Dipendra Singh Airee (c),39,28,1,2,139.28,out
+10,Karnali Yaks vs Sudur Paschim Royals,1,Harmeet Singh,19,16,1,1,118.75,out
+10,Karnali Yaks vs Sudur Paschim Royals,1,Scott Kuggeleijn,10,8,0,1,125.00,out
+10,Karnali Yaks vs Sudur Paschim Royals,1,Naren Saud,0,2,0,0,0.00,out
+10,Karnali Yaks vs Sudur Paschim Royals,1,Hemant Dhami,1,3,0,0,33.33,not out
+10,Karnali Yaks vs Sudur Paschim Royals,1,Abinash Bohara,1,3,0,0,33.33,not out
+10,Karnali Yaks vs Sudur Paschim Royals,2,Priyank Panchal,0,5,0,0,0.00,out
+10,Karnali Yaks vs Sudur Paschim Royals,2,Mark Watt,17,10,0,2,170.00,out
+10,Karnali Yaks vs Sudur Paschim Royals,2,William Bosisto,3,9,0,0,33.33,out
+10,Karnali Yaks vs Sudur Paschim Royals,2,Najibullah Zadran,1,4,0,0,25.00,out
+10,Karnali Yaks vs Sudur Paschim Royals,2,Pawan Sarraf,27,26,4,0,103.84,out
+10,Karnali Yaks vs Sudur Paschim Royals,2,Sompal Kami (c),14,16,1,0,87.50,out
+10,Karnali Yaks vs Sudur Paschim Royals,2,Gulsan Jha,13,13,2,0,100.00,out
+10,Karnali Yaks vs Sudur Paschim Royals,2,Arjun Gharti ,13,24,1,0,54.16,out
+10,Karnali Yaks vs Sudur Paschim Royals,2,Nandan Yadav,1,4,0,0,25.00,out
+10,Karnali Yaks vs Sudur Paschim Royals,2,Yuvraj Khatri,0,4,0,0,0.00,out
+10,Karnali Yaks vs Sudur Paschim Royals,2,Bipin Sharma,0,1,0,0,0.00,not out
+11,Kathmandu Gorkhas vs Lumbini Lions,1,Aakash Tripathi,32,36,3,0,88.88,out
+11,Kathmandu Gorkhas vs Lumbini Lions,1,Ben Charlesworth ,0,1,0,0,0.00,out
+11,Kathmandu Gorkhas vs Lumbini Lions,1,Rashid Khan,14,10,2,0,140.00,out
+11,Kathmandu Gorkhas vs Lumbini Lions,1,Milind Kumar,17,20,1,0,85.00,out
+11,Kathmandu Gorkhas vs Lumbini Lions,1,John Simpson,7,3,0,1,233.33,out
+11,Kathmandu Gorkhas vs Lumbini Lions,1,Santosh Yadav,26,16,0,2,162.50,out
+11,Kathmandu Gorkhas vs Lumbini Lions,1,Gerhard Erasmus,17,15,2,0,113.33,out
+11,Kathmandu Gorkhas vs Lumbini Lions,1,Mohammad Aadil Alam,4,7,0,0,57.14,out
+11,Kathmandu Gorkhas vs Lumbini Lions,1,Karan KC (c),34,11,1,4,309.09,not out
+11,Kathmandu Gorkhas vs Lumbini Lions,1,Shahab Alam,1,2,0,0,50.00,not out
+11,Kathmandu Gorkhas vs Lumbini Lions,2,Sundeep Jora,7,5,1,0,140.00,out
+11,Kathmandu Gorkhas vs Lumbini Lions,2,D'Arcy Short,22,11,3,1,200.00,out
+11,Kathmandu Gorkhas vs Lumbini Lions,2,Rohit Paudel (c),11,16,0,0,68.75,out
+11,Kathmandu Gorkhas vs Lumbini Lions,2,Gulbadin Naib,11,6,1,1,183.33,out
+11,Kathmandu Gorkhas vs Lumbini Lions,2,Dilip Nath ,25,33,1,1,75.75,out
+11,Kathmandu Gorkhas vs Lumbini Lions,2,JJ Smit,8,7,1,0,114.28,out
+11,Kathmandu Gorkhas vs Lumbini Lions,2,Sumit Maharjan,0,1,0,0,0.00,out
+11,Kathmandu Gorkhas vs Lumbini Lions,2,Ruben Trumpelmann,5,3,1,0,166.66,out
+11,Kathmandu Gorkhas vs Lumbini Lions,2,Sher Malla,27,18,0,3,150.00,out
+11,Kathmandu Gorkhas vs Lumbini Lions,2,Abhishesh Gautam,4,8,0,0,50.00,out
+11,Kathmandu Gorkhas vs Lumbini Lions,2,Tilak Bhandari,6,8,1,0,75.00,not out
+12,Biratnagar Kings vs Chitwan Rhinos,1,Deepak Bohara,5,5,1,0,100.00,out
+12,Biratnagar Kings vs Chitwan Rhinos,1,Dawid Malan,17,9,3,0,188.88,out
+12,Biratnagar Kings vs Chitwan Rhinos,1,Dev Khanal,28,22,3,1,127.27,out
+12,Biratnagar Kings vs Chitwan Rhinos,1,Saif Zaib,32,30,1,1,106.66,out
+12,Biratnagar Kings vs Chitwan Rhinos,1,Ravi Bopara,65,38,3,4,171.05,out
+12,Biratnagar Kings vs Chitwan Rhinos,1,Kushal Malla (c),20,14,1,1,142.85,not out
+12,Biratnagar Kings vs Chitwan Rhinos,1,Amar Routela,3,2,0,0,150.00,not out
+12,Biratnagar Kings vs Chitwan Rhinos,2,Lokesh Bam ,7,8,0,1,87.50,out
+12,Biratnagar Kings vs Chitwan Rhinos,2,George Munsey,4,5,1,0,80.00,out
+12,Biratnagar Kings vs Chitwan Rhinos,2,Naren Bhatta,4,10,0,0,40.00,out
+12,Biratnagar Kings vs Chitwan Rhinos,2,Sam Heazlett,22,11,0,3,200.00,out
+12,Biratnagar Kings vs Chitwan Rhinos,2,Basir Ahamad,0,2,0,0,0.00,out
+12,Biratnagar Kings vs Chitwan Rhinos,2,Shubham Ranjane,6,14,0,0,42.85,out
+12,Biratnagar Kings vs Chitwan Rhinos,2,Narayan Joshi,4,14,0,0,28.57,out
+12,Biratnagar Kings vs Chitwan Rhinos,2,Surya Tamang,0,1,0,0,0.00,out
+12,Biratnagar Kings vs Chitwan Rhinos,2,Marchant de Lange,39,22,2,4,177.27,out
+12,Biratnagar Kings vs Chitwan Rhinos,2,Pratis GC,30,12,2,3,250.00,out
+12,Biratnagar Kings vs Chitwan Rhinos,2,Sandeep Lamichhane (c),4,2,1,0,200.00,not out
+13,Lumbini Lions vs Sudur Paschim Royals,1,D'Arcy Short,18,11,4,0,163.63,out
+13,Lumbini Lions vs Sudur Paschim Royals,1,Sumit Maharjan,18,14,3,0,128.57,out
+13,Lumbini Lions vs Sudur Paschim Royals,1,Rohit Paudel (c),35,36,3,0,97.22,out
+13,Lumbini Lions vs Sudur Paschim Royals,1,Dilip Nath ,31,29,2,1,106.89,out
+13,Lumbini Lions vs Sudur Paschim Royals,1,Gulbadin Naib,11,9,2,0,122.22,out
+13,Lumbini Lions vs Sudur Paschim Royals,1,Ruben Trumpelmann,0,3,0,0,0.00,out
+13,Lumbini Lions vs Sudur Paschim Royals,1,Sundeep Jora,7,7,0,0,100.00,out
+13,Lumbini Lions vs Sudur Paschim Royals,1,Sher Malla,4,2,1,0,200.00,out
+13,Lumbini Lions vs Sudur Paschim Royals,1,Thomas Draca,6,4,1,0,150.00,out
+13,Lumbini Lions vs Sudur Paschim Royals,1,Tilak Bhandari,0,0,0,0,-,not out
+13,Lumbini Lions vs Sudur Paschim Royals,1,Abhishesh Gautam,6,3,1,0,200.00,out
+13,Lumbini Lions vs Sudur Paschim Royals,2,Josh Brown,9,7,2,0,128.57,out
+13,Lumbini Lions vs Sudur Paschim Royals,2,Binod Bhandari ,69,49,5,4,140.81,not out
+13,Lumbini Lions vs Sudur Paschim Royals,2,Chris Lynn,16,14,1,2,114.28,out
+13,Lumbini Lions vs Sudur Paschim Royals,2,Aarif Sheikh,39,37,4,1,105.40,out
+13,Lumbini Lions vs Sudur Paschim Royals,2,Harmeet Singh,7,3,0,1,233.33,not out
+14,Janakpur Bolts vs Pokhara Avengers,1,Dinesh Kharel,38,38,2,3,100.00,out
+14,Janakpur Bolts vs Pokhara Avengers,1,Adam Rossington ,24,17,3,0,141.17,out
+14,Janakpur Bolts vs Pokhara Avengers,1,Kushal Bhurtel (c),0,1,0,0,0.00,out
+14,Janakpur Bolts vs Pokhara Avengers,1,Sumeet Verma,50,29,2,4,172.41,not out
+14,Janakpur Bolts vs Pokhara Avengers,1,James Neesham,1,3,0,0,33.33,out
+14,Janakpur Bolts vs Pokhara Avengers,1,Trit Raj Das,29,28,2,0,103.57,out
+14,Janakpur Bolts vs Pokhara Avengers,1,Dan Douthwaite,7,3,0,1,233.33,out
+14,Janakpur Bolts vs Pokhara Avengers,1,Kiran Thagunna,1,1,0,0,100.00,not out
+14,Janakpur Bolts vs Pokhara Avengers,2,Maaz Sadaqat,20,14,1,2,142.85,out
+14,Janakpur Bolts vs Pokhara Avengers,2,Aasif Sheikh ,0,1,0,0,0.00,out
+14,Janakpur Bolts vs Pokhara Avengers,2,Shubh Kansakar,4,2,1,0,200.00,out
+14,Janakpur Bolts vs Pokhara Avengers,2,Jan Nicol Loftie-Eaton,2,6,0,0,33.33,out
+14,Janakpur Bolts vs Pokhara Avengers,2,Sanjay Krishnamurthi,25,20,2,1,125.00,out
+14,Janakpur Bolts vs Pokhara Avengers,2,Anil Sah (c),1,8,0,0,12.50,out
+14,Janakpur Bolts vs Pokhara Avengers,2,Mayan Yadav,4,8,0,0,50.00,out
+14,Janakpur Bolts vs Pokhara Avengers,2,Wayne Parnell,50,38,2,4,131.57,out
+14,Janakpur Bolts vs Pokhara Avengers,2,Rupesh Singh,7,12,1,0,58.33,out
+14,Janakpur Bolts vs Pokhara Avengers,2,Lalit Rajbanshi,10,11,1,0,90.90,not out
+14,Janakpur Bolts vs Pokhara Avengers,2,Kishor Mahato,1,1,0,0,100.00,not out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,1,Ben Charlesworth,13,14,2,0,92.85,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,1,Aakash Tripathi,4,5,1,0,80.00,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,1,Rashid Khan,6,6,0,1,100.00,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,1,Milind Kumar,38,43,5,0,88.37,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,1,John Simpson ,60,29,3,5,206.89,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,1,Mohammad Aadil Alam,8,5,1,0,160.00,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,1,Gerhard Erasmus,0,3,0,0,0.00,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,1,Karan KC (c),1,2,0,0,50.00,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,1,Santosh Yadav,0,2,0,0,0.00,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,1,Shahab Alam,2,4,0,0,50.00,not out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,1,Dipesh Kandel,6,5,0,0,120.00,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,2,Deepak Bohara,0,5,0,0,0.00,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,2,Dawid Malan,7,10,1,0,70.00,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,2,Dev Khanal,21,18,2,1,116.66,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,2,Saif Zaib,1,3,0,0,33.33,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,2,Kushal Malla (c),6,13,0,0,46.15,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,2,Ravi Bopara,21,23,1,1,91.30,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,2,Arjun Saud ,2,5,0,0,40.00,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,2,Sohail Tanvir,18,17,1,1,105.88,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,2,Kamal Airee,9,8,0,1,112.50,out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,2,Rijan Dhakal,1,1,0,0,100.00,not out
+15,Chitwan Rhinos vs Kathmandu Gorkhas,2,Ranjit Kumar,0,1,0,0,0.00,out
+16,Biratnagar Kings vs Karnali Yaks,1,Priyank Panchal,63,47,6,2,134.04,out
+16,Biratnagar Kings vs Karnali Yaks,1,Mark Watt,6,9,1,0,66.66,out
+16,Biratnagar Kings vs Karnali Yaks,1,William Bosisto,48,48,2,0,100.00,not out
+16,Biratnagar Kings vs Karnali Yaks,1,Gulsan Jha,20,10,2,1,200.00,out
+16,Biratnagar Kings vs Karnali Yaks,1,Najibullah Zadran,12,6,0,1,200.00,not out
+16,Biratnagar Kings vs Karnali Yaks,2,Lokesh Bam,6,11,1,0,54.54,out
+16,Biratnagar Kings vs Karnali Yaks,2,George Munsey,0,2,0,0,0.00,out
+16,Biratnagar Kings vs Karnali Yaks,2,Sam Heazlett,16,13,3,0,123.07,out
+16,Biratnagar Kings vs Karnali Yaks,2,Sahil Patel ,19,24,0,1,79.16,out
+16,Biratnagar Kings vs Karnali Yaks,2,Basir Ahamad,62,43,3,3,144.18,not out
+16,Biratnagar Kings vs Karnali Yaks,2,Marchant de Lange,2,2,0,0,100.00,out
+16,Biratnagar Kings vs Karnali Yaks,2,Narayan Joshi,25,16,2,1,156.25,out
+16,Biratnagar Kings vs Karnali Yaks,2,Pratis GC,6,5,1,0,120.00,out
+16,Biratnagar Kings vs Karnali Yaks,2,Sandeep Lamichhane (c),6,4,1,0,150.00,not out
+17,Lumbini Lions vs Pokhara Avengers,1,Dinesh Kharel,7,11,1,0,63.63,out
+17,Lumbini Lions vs Pokhara Avengers,1,Adam Rossington ,81,63,7,5,128.57,out
+17,Lumbini Lions vs Pokhara Avengers,1,Kushal Bhurtel (c),0,1,0,0,0.00,out
+17,Lumbini Lions vs Pokhara Avengers,1,Sumeet Verma,0,5,0,0,0.00,out
+17,Lumbini Lions vs Pokhara Avengers,1,Trit Raj Das,1,6,0,0,16.66,out
+17,Lumbini Lions vs Pokhara Avengers,1,James Neesham,51,32,3,3,159.37,not out
+17,Lumbini Lions vs Pokhara Avengers,1,Kiran Thagunna,1,2,0,0,50.00,not out
+17,Lumbini Lions vs Pokhara Avengers,2,D'Arcy Short,7,13,1,0,53.84,out
+17,Lumbini Lions vs Pokhara Avengers,2,Sumit Maharjan,0,2,0,0,0.00,out
+17,Lumbini Lions vs Pokhara Avengers,2,Rohit Paudel (c),40,36,3,2,111.11,out
+17,Lumbini Lions vs Pokhara Avengers,2,Niroshan Dickwella ,37,22,2,2,168.18,out
+17,Lumbini Lions vs Pokhara Avengers,2,Dilip Nath,10,6,0,1,166.66,out
+17,Lumbini Lions vs Pokhara Avengers,2,Sundeep Jora,25,22,2,1,113.63,not out
+17,Lumbini Lions vs Pokhara Avengers,2,Gulbadin Naib,17,11,0,2,154.54,out
+17,Lumbini Lions vs Pokhara Avengers,2,Ruben Trumpelmann,9,6,0,1,150.00,out
+17,Lumbini Lions vs Pokhara Avengers,2,Sher Malla,0,0,0,0,-,not out
+18,Janakpur Bolts vs Sudur Paschim Royals,1,Maaz Sadaqat,12,9,2,0,133.33,out
+18,Janakpur Bolts vs Sudur Paschim Royals,1,Aasif Sheikh ,0,2,0,0,0.00,out
+18,Janakpur Bolts vs Sudur Paschim Royals,1,Mayan Yadav,6,10,1,0,60.00,out
+18,Janakpur Bolts vs Sudur Paschim Royals,1,Jan Nicol Loftie-Eaton,39,33,2,2,118.18,out
+18,Janakpur Bolts vs Sudur Paschim Royals,1,Sanjay Krishnamurthi,50,38,4,2,131.57,out
+18,Janakpur Bolts vs Sudur Paschim Royals,1,Aaditya Mahata,15,13,2,0,115.38,out
+18,Janakpur Bolts vs Sudur Paschim Royals,1,Shubh Kansakar,0,1,0,0,0.00,out
+18,Janakpur Bolts vs Sudur Paschim Royals,1,Wayne Parnell (c),14,12,1,1,116.66,out
+18,Janakpur Bolts vs Sudur Paschim Royals,1,Rupesh Singh,1,2,0,0,50.00,not out
+18,Janakpur Bolts vs Sudur Paschim Royals,2,Josh Brown,0,1,0,0,0.00,out
+18,Janakpur Bolts vs Sudur Paschim Royals,2,Binod Bhandari ,42,49,3,1,85.71,out
+18,Janakpur Bolts vs Sudur Paschim Royals,2,Chris Lynn,1,5,0,0,20.00,out
+18,Janakpur Bolts vs Sudur Paschim Royals,2,Ishan Pandey,56,35,8,1,160.00,out
+18,Janakpur Bolts vs Sudur Paschim Royals,2,Dipendra Singh Airee (c),10,7,0,0,142.85,not out
+18,Janakpur Bolts vs Sudur Paschim Royals,2,Harmeet Singh,25,10,1,3,250.00,not out
+19,Karnali Yaks vs Kathmandu Gorkhas,1,Priyank Panchal,0,1,0,0,0.00,out
+19,Karnali Yaks vs Kathmandu Gorkhas,1,Mark Watt,30,27,1,2,111.11,out
+19,Karnali Yaks vs Kathmandu Gorkhas,1,William Bosisto,1,1,0,0,100.00,out
+19,Karnali Yaks vs Kathmandu Gorkhas,1,Pawan Sarraf,35,29,2,2,120.68,out
+19,Karnali Yaks vs Kathmandu Gorkhas,1,Najibullah Zadran,12,14,0,1,85.71,out
+19,Karnali Yaks vs Kathmandu Gorkhas,1,Sompal Kami (c),6,11,0,0,54.54,out
+19,Karnali Yaks vs Kathmandu Gorkhas,1,Gulsan Jha,49,22,6,3,222.72,not out
+19,Karnali Yaks vs Kathmandu Gorkhas,1,Deepak Dumre ,10,12,0,0,83.33,out
+19,Karnali Yaks vs Kathmandu Gorkhas,1,Nandan Yadav,1,3,0,0,33.33,not out
+19,Karnali Yaks vs Kathmandu Gorkhas,2,Ben Charlesworth,34,21,2,3,161.90,out
+19,Karnali Yaks vs Kathmandu Gorkhas,2,Aakash Tripathi,8,11,1,0,72.72,out
+19,Karnali Yaks vs Kathmandu Gorkhas,2,Milind Kumar,15,19,2,0,78.94,out
+19,Karnali Yaks vs Kathmandu Gorkhas,2,Gerhard Erasmus,43,33,2,2,130.30,not out
+19,Karnali Yaks vs Kathmandu Gorkhas,2,John Simpson ,41,21,4,2,195.23,out
+19,Karnali Yaks vs Kathmandu Gorkhas,2,Rashid Khan,0,1,0,0,0.00,out
+19,Karnali Yaks vs Kathmandu Gorkhas,2,Bhim Sharki,6,2,0,1,300.00,not out
+20,Chitwan Rhinos vs Janakpur Bolts,1,Dawid Malan,80,54,4,5,148.14,out
+20,Chitwan Rhinos vs Janakpur Bolts,1,Arjun Saud ,52,39,4,3,133.33,out
+20,Chitwan Rhinos vs Janakpur Bolts,1,Saif Zaib,7,5,0,1,140.00,out
+20,Chitwan Rhinos vs Janakpur Bolts,1,Ravi Bopara,3,5,0,0,60.00,out
+20,Chitwan Rhinos vs Janakpur Bolts,1,Kushal Malla (c),30,14,2,2,214.28,not out
+20,Chitwan Rhinos vs Janakpur Bolts,1,Amar Routela,1,3,0,0,33.33,not out
+20,Chitwan Rhinos vs Janakpur Bolts,2,Maaz Sadaqat,63,30,6,4,210.00,out
+20,Chitwan Rhinos vs Janakpur Bolts,2,Aasif Sheikh ,18,18,3,0,100.00,out
+20,Chitwan Rhinos vs Janakpur Bolts,2,Anil Sah,61,36,4,3,169.44,out
+20,Chitwan Rhinos vs Janakpur Bolts,2,Jan Nicol Loftie-Eaton,11,9,0,1,122.22,out
+20,Chitwan Rhinos vs Janakpur Bolts,2,Sanjay Krishnamurthi,5,5,1,0,100.00,not out
+20,Chitwan Rhinos vs Janakpur Bolts,2,Aaditya Mahata,18,7,2,1,257.14,not out
+21,Karnali Yaks vs Pokhara Avengers,1,Kushal Bhurtel (c),18,17,3,1,105.88,out
+21,Karnali Yaks vs Pokhara Avengers,1,Adam Rossington ,108,58,11,7,186.2,not out
+21,Karnali Yaks vs Pokhara Avengers,1,Jason Roy,46,34,2,3,135.29,out
+21,Karnali Yaks vs Pokhara Avengers,1,Dhananjaya Lakshan,23,11,3,1,209.09,not out
+21,Karnali Yaks vs Pokhara Avengers,2,Mark Watt,59,34,4,5,173.52,out
+21,Karnali Yaks vs Pokhara Avengers,2,Priyank Panchal,16,11,0,2,145.45,out
+21,Karnali Yaks vs Pokhara Avengers,2,Jaykishan Kolsawala ,6,10,0,0,60.0,out
+21,Karnali Yaks vs Pokhara Avengers,2,Pawan Sarraf,19,14,1,1,135.71,out
+21,Karnali Yaks vs Pokhara Avengers,2,Najibullah Zadran,24,15,2,1,160.0,out
+21,Karnali Yaks vs Pokhara Avengers,2,Gulsan Jha,9,7,0,1,128.57,out
+21,Karnali Yaks vs Pokhara Avengers,2,Sompal Kami (c),13,9,1,1,144.44,out
+21,Karnali Yaks vs Pokhara Avengers,2,Dipendra Rawat,10,8,1,0,125.0,out
+21,Karnali Yaks vs Pokhara Avengers,2,Nandan Yadav,3,3,0,0,100.0,not out
+21,Karnali Yaks vs Pokhara Avengers,2,Unish Singh,1,2,0,0,50.0,out
+21,Karnali Yaks vs Pokhara Avengers,2,Bipin Sharma,0,2,0,0,0.0,out
+22,Biratnagar Kings vs Lumbini Lions,1,George Munsey,0,2,0,0,0.0,out
+22,Biratnagar Kings vs Lumbini Lions,1,Faf du Plessis,12,9,2,0,133.33,out
+22,Biratnagar Kings vs Lumbini Lions,1,Lokesh Bam,35,42,2,2,83.33,out
+22,Biratnagar Kings vs Lumbini Lions,1,Sam Heazlett,27,20,1,2,135.0,out
+22,Biratnagar Kings vs Lumbini Lions,1,Narayan Joshi,5,7,0,0,71.42,out
+22,Biratnagar Kings vs Lumbini Lions,1,Basir Ahamad,28,19,1,1,147.36,out
+22,Biratnagar Kings vs Lumbini Lions,1,Pratis GC,11,9,1,0,122.22,out
+22,Biratnagar Kings vs Lumbini Lions,1,Marchant de Lange,10,8,1,0,125.0,not out
+22,Biratnagar Kings vs Lumbini Lions,1,Sahil Patel ,3,3,0,0,100.0,out
+22,Biratnagar Kings vs Lumbini Lions,1,Sandeep Lamichhane (c),6,1,0,1,600.0,not out
+22,Biratnagar Kings vs Lumbini Lions,2,D'Arcy Short,57,44,6,2,129.54,out
+22,Biratnagar Kings vs Lumbini Lions,2,Sumit Maharjan,10,11,1,0,90.9,out
+22,Biratnagar Kings vs Lumbini Lions,2,Rohit Paudel (c),0,3,0,0,0.0,out
+22,Biratnagar Kings vs Lumbini Lions,2,Sundeep Jora,24,15,3,1,160.0,out
+22,Biratnagar Kings vs Lumbini Lions,2,Niroshan Dickwella ,29,22,2,1,131.81,not out
+22,Biratnagar Kings vs Lumbini Lions,2,Dilip Nath,16,12,2,0,133.33,out
+22,Biratnagar Kings vs Lumbini Lions,2,Sher Malla,1,1,0,0,100.0,not out
+23,Kathmandu Gorkhas vs Pokhara Avengers,1,Ben Charlesworth,64,55,5,2,116.36,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,1,Aakash Tripathi,0,1,0,0,0.0,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,1,Rashid Khan,7,12,0,1,58.33,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,1,Milind Kumar,13,14,1,0,92.85,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,1,John Simpson ,2,4,0,0,50.0,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,1,Mohammad Aadil Alam,7,7,1,0,100.0,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,1,Bhim Sharki,55,23,5,4,239.13,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,1,Sunny Patel,2,2,0,0,100.0,not out
+23,Kathmandu Gorkhas vs Pokhara Avengers,1,Karan KC (c),4,2,1,0,200.0,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,2,Kushal Bhurtel (c),22,20,0,2,110.0,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,2,Adam Rossington ,5,5,1,0,100.0,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,2,Jason Roy,16,12,1,1,133.33,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,2,Trit Raj Das,9,10,0,1,90.0,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,2,Dhananjaya Lakshan,30,27,1,1,111.11,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,2,Rishi Dhawan,54,31,3,2,174.19,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,2,Kiran Thagunna,5,6,1,0,83.33,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,2,Sandeep Chettri,2,4,0,0,50.0,not out
+23,Kathmandu Gorkhas vs Pokhara Avengers,2,Bipin Khatri,0,1,0,0,0.0,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,2,Aakash Chand,0,1,0,0,0.0,out
+23,Kathmandu Gorkhas vs Pokhara Avengers,2,Sagar Dhakal,6,3,0,1,200.0,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,1,Binod Bhandari ,21,17,2,1,123.52,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,1,Chris Lynn,75,56,5,3,133.92,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,1,Ishan Pandey,1,4,0,0,25.0,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,1,Puneet Mehra,13,12,2,0,108.33,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,1,Harmeet Singh,1,2,0,0,50.0,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,1,Aarif Sheikh,24,16,2,1,150.0,not out
+24,Chitwan Rhinos vs Sudur Paschim Royals,1,Dipendra Singh Airee (c),24,14,0,2,171.42,not out
+24,Chitwan Rhinos vs Sudur Paschim Royals,2,Arjun Saud ,16,15,3,0,106.66,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,2,Dawid Malan,6,9,1,0,66.66,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,2,Saif Zaib,6,8,1,0,75.0,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,2,Ravi Bopara,29,23,1,2,126.08,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,2,Kushal Malla (c),15,14,2,0,107.14,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,2,Dev Khanal,28,19,3,0,147.36,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,2,Amar Routela,9,6,1,0,150.0,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,2,George Scrimshaw,0,1,0,0,0.0,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,2,Kamal Airee,6,5,1,0,120.0,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,2,Rijan Dhakal,2,2,0,0,100.0,out
+24,Chitwan Rhinos vs Sudur Paschim Royals,2,Ranjit Kumar,1,1,0,0,100.0,not out
+25,Janakpur Bolts vs Lumbini Lions,1,Maaz Sadaqat,6,5,0,1,120.0,out
+25,Janakpur Bolts vs Lumbini Lions,1,Aasif Sheikh ,20,17,2,1,117.64,out
+25,Janakpur Bolts vs Lumbini Lions,1,Anil Sah,7,10,1,0,70.0,out
+25,Janakpur Bolts vs Lumbini Lions,1,Sangeeth Cooray,45,38,2,1,118.42,not out
+25,Janakpur Bolts vs Lumbini Lions,1,Shubh Kansakar,11,15,0,0,73.33,out
+25,Janakpur Bolts vs Lumbini Lions,1,Sanjay Krishnamurthi,14,11,0,1,127.27,out
+25,Janakpur Bolts vs Lumbini Lions,1,Jan Nicol Loftie-Eaton (c),0,1,0,0,0.0,out
+25,Janakpur Bolts vs Lumbini Lions,1,Mayan Yadav,27,23,1,1,117.39,not out
+25,Janakpur Bolts vs Lumbini Lions,2,Sumit Maharjan,0,1,0,0,0.0,out
+25,Janakpur Bolts vs Lumbini Lions,2,D'Arcy Short,30,24,1,2,125.0,out
+25,Janakpur Bolts vs Lumbini Lions,2,Rohit Paudel (c),34,32,2,1,106.25,out
+25,Janakpur Bolts vs Lumbini Lions,2,Niroshan Dickwella ,17,20,0,0,85.0,out
+25,Janakpur Bolts vs Lumbini Lions,2,Sundeep Jora,0,1,0,0,0.0,out
+25,Janakpur Bolts vs Lumbini Lions,2,JJ Smit,21,19,1,1,110.52,out
+25,Janakpur Bolts vs Lumbini Lions,2,Dilip Nath,15,13,0,1,115.38,not out
+25,Janakpur Bolts vs Lumbini Lions,2,Ruben Trumpelmann,6,5,0,0,120.0,not out
+26,Biratnagar Kings vs Sudur Paschim Royals,1,Binod Bhandari ,15,13,3,0,115.38,out
+26,Biratnagar Kings vs Sudur Paschim Royals,1,Josh Brown,24,25,1,2,96.0,out
+26,Biratnagar Kings vs Sudur Paschim Royals,1,Ishan Pandey,38,35,2,2,108.57,out
+26,Biratnagar Kings vs Sudur Paschim Royals,1,Aarif Sheikh,45,32,1,3,140.62,not out
+26,Biratnagar Kings vs Sudur Paschim Royals,1,Harmeet Singh,0,1,0,0,0.0,out
+26,Biratnagar Kings vs Sudur Paschim Royals,1,Dipendra Singh Airee (c),19,11,0,2,172.72,out
+26,Biratnagar Kings vs Sudur Paschim Royals,1,Dipak Bohara,3,3,0,0,100.0,out
+26,Biratnagar Kings vs Sudur Paschim Royals,2,Sam Heazlett,51,27,3,4,188.88,out
+26,Biratnagar Kings vs Sudur Paschim Royals,2,Faf du Plessis,50,20,5,4,250.0,out
+26,Biratnagar Kings vs Sudur Paschim Royals,2,Martin Guptill,22,9,0,3,244.44,out
+26,Biratnagar Kings vs Sudur Paschim Royals,2,Basir Ahamad,8,9,1,0,88.88,out
+26,Biratnagar Kings vs Sudur Paschim Royals,2,Lokesh Bam ,3,4,0,0,75.0,not out
+26,Biratnagar Kings vs Sudur Paschim Royals,2,Pratis GC,13,3,0,2,433.33,not out
+27,Chitwan Rhinos vs Pokhara Avengers,1,Dawid Malan,5,9,0,0,55.55,out
+27,Chitwan Rhinos vs Pokhara Avengers,1,Arjun Saud ,1,2,0,0,50.0,out
+27,Chitwan Rhinos vs Pokhara Avengers,1,Ravi Bopara,1,2,0,0,50.0,out
+27,Chitwan Rhinos vs Pokhara Avengers,1,Saif Zaib,17,18,0,1,94.44,out
+27,Chitwan Rhinos vs Pokhara Avengers,1,Dev Khanal,34,41,1,1,82.92,out
+27,Chitwan Rhinos vs Pokhara Avengers,1,Kushal Malla (c),23,23,0,0,100.0,out
+27,Chitwan Rhinos vs Pokhara Avengers,1,Alpesh Ramjani,33,22,1,2,150.0,not out
+27,Chitwan Rhinos vs Pokhara Avengers,1,Kamal Airee,2,3,0,0,66.66,not out
+27,Chitwan Rhinos vs Pokhara Avengers,2,Arjun Kumal,43,53,2,1,81.13,not out
+27,Chitwan Rhinos vs Pokhara Avengers,2,Adam Rossington ,65,48,4,5,135.41,out
+27,Chitwan Rhinos vs Pokhara Avengers,2,Kushal Bhurtel (c),4,10,0,0,40.0,out
+27,Chitwan Rhinos vs Pokhara Avengers,2,Jason Roy,6,8,0,0,75.0,not out
+28,Janakpur Bolts vs Karnali Yaks,1,Imran Sheikh,33,32,1,1,103.12,out
+28,Janakpur Bolts vs Karnali Yaks,1,Mark Watt,4,7,0,0,57.14,out
+28,Janakpur Bolts vs Karnali Yaks,1,Priyank Panchal,16,18,3,0,88.88,out
+28,Janakpur Bolts vs Karnali Yaks,1,Gulsan Jha,19,20,0,1,95.0,out
+28,Janakpur Bolts vs Karnali Yaks,1,William Bosisto,15,12,1,0,125.0,out
+28,Janakpur Bolts vs Karnali Yaks,1,Najibullah Zadran,13,13,0,1,100.0,out
+28,Janakpur Bolts vs Karnali Yaks,1,Pawan Sarraf,1,2,0,0,50.0,out
+28,Janakpur Bolts vs Karnali Yaks,1,Arjun Gharti ,4,3,0,0,133.33,out
+28,Janakpur Bolts vs Karnali Yaks,1,Sompal Kami (c),18,11,1,1,163.63,not out
+28,Janakpur Bolts vs Karnali Yaks,1,Dipendra Rawat,2,2,0,0,100.0,out
+28,Janakpur Bolts vs Karnali Yaks,2,Maaz Sadaqat,12,16,2,0,75.0,out
+28,Janakpur Bolts vs Karnali Yaks,2,Aasif Sheikh ,0,3,0,0,0.0,out
+28,Janakpur Bolts vs Karnali Yaks,2,Anil Sah,0,5,0,0,0.0,out
+28,Janakpur Bolts vs Karnali Yaks,2,Mayan Yadav,9,15,1,0,60.0,out
+28,Janakpur Bolts vs Karnali Yaks,2,Sanjay Krishnamurthi,51,39,1,4,130.76,out
+28,Janakpur Bolts vs Karnali Yaks,2,Sangeeth Cooray,25,32,1,0,78.12,out
+28,Janakpur Bolts vs Karnali Yaks,2,Jan Nicol Loftie-Eaton (c),13,9,2,0,144.44,not out
+28,Janakpur Bolts vs Karnali Yaks,2,Aaditya Mahata,1,1,0,0,100.0,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),1,Mukhtar Ahmed,10,10,2,0,100.0,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),1,Binod Bhandari ,63,52,3,2,121.15,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),1,Sheldon Jackson,20,11,2,1,181.81,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),1,Ishan Pandey,13,17,1,0,76.47,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),1,Dipendra Singh Airee (c),3,3,0,0,100.0,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),1,Harmeet Singh,14,11,2,0,127.27,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),1,Aarif Sheikh,20,13,2,1,153.84,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),1,Scott Kuggeleijn,1,1,0,0,100.0,not out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),1,Milan Bohara,5,2,1,0,250.0,not out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),2,Sam Heazlett,0,1,0,0,0.0,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),2,Faf du Plessis,36,29,3,1,124.13,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),2,Martin Guptill,2,2,0,0,100.0,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),2,Naren Bhatta,0,1,0,0,0.0,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),2,Basir Ahamad,12,18,2,0,66.66,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),2,Lokesh Bam ,5,6,0,0,83.33,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),2,Narayan Joshi,1,3,0,0,33.33,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),2,Pratis GC,3,5,0,0,60.0,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),2,Marchant de Lange,15,11,1,1,136.36,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),2,Sandeep Lamichhane (c),3,5,0,0,60.0,out
+29,Sudur Paschim Royals vs Biratnagar Kings (Q1),2,Surya Tamang,0,4,0,0,0.0,not out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),1,Ben Charlesworth,4,5,0,0,80.0,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),1,Aakash Tripathi,1,5,0,0,20.0,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),1,Sunny Patel,7,6,0,1,116.66,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),1,Milind Kumar,2,8,0,0,25.0,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),1,Bhim Sharki,14,16,0,1,87.5,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),1,John Simpson ,18,17,1,1,105.88,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),1,Rashid Khan,2,9,0,0,22.22,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),1,Santosh Yadav,23,17,0,1,135.29,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),1,Mohammad Aadil Alam,18,11,1,2,163.63,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),1,Karan KC (c),9,14,0,1,64.28,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),1,Shahab Alam,4,7,0,0,57.14,not out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),2,D'Arcy Short,33,34,0,2,97.05,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),2,Dinesh Adhikari,4,5,1,0,80.0,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),2,Rohit Paudel (c),18,25,1,1,72.0,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),2,Sundeep Jora,23,23,1,1,100.0,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),2,Niroshan Dickwella ,14,14,2,0,100.0,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),2,Dilip Nath,7,3,0,1,233.33,out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),2,JJ Smit,0,1,0,0,0.0,not out
+30,Kathmandu Gorkhas vs Lumbini Lions (Eliminator),2,Ruben Trumpelmann,5,2,1,0,250.0,not out
+31,Biratnagar Kings vs Lumbini Lions (Q2),1,D'Arcy Short,45,41,3,1,109.75,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),1,Dinesh Adhikari,1,5,0,0,20.0,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),1,Rohit Paudel (c),34,30,2,2,113.33,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),1,Niroshan Dickwella ,29,22,4,0,131.81,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),1,Sundeep Jora,0,2,0,0,0.0,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),1,JJ Smit,0,2,0,0,0.0,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),1,Dilip Nath,1,2,0,0,50.0,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),1,Ruben Trumpelmann,11,8,1,0,137.5,not out
+31,Biratnagar Kings vs Lumbini Lions (Q2),1,Sher Malla,7,7,0,0,100.0,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),1,Abhishesh Gautam,2,1,0,0,200.0,not out
+31,Biratnagar Kings vs Lumbini Lions (Q2),2,Martin Guptill,2,3,0,0,66.66,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),2,Faf du Plessis,3,4,0,0,75.0,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),2,Lokesh Bam ,0,1,0,0,0.0,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),2,Sam Heazlett,34,28,2,2,121.42,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),2,Shankar Rana,7,14,0,0,50.0,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),2,Marchant de Lange,17,20,1,0,85.0,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),2,Basir Ahamad,3,6,0,0,50.0,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),2,Sandeep Lamichhane (c),3,4,0,0,75.0,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),2,Naren Bhatta,21,21,1,2,100.0,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),2,Pratis GC,2,3,0,0,66.66,out
+31,Biratnagar Kings vs Lumbini Lions (Q2),2,Subash Bhandari,0,3,0,0,0.0,not out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),1,Ishan Pandey,33,51,1,0,64.7,out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),1,Binod Bhandari ,0,2,0,0,0.0,out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),1,Sheldon Jackson,1,3,0,0,33.33,out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),1,Aarif Sheikh,6,6,1,0,100.0,out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),1,Dipendra Singh Airee (c),13,20,0,1,65.0,out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),1,Dipak Bohara,0,1,0,0,0.0,out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),1,Puneet Mehra,0,1,0,0,0.0,out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),1,Harmeet Singh,10,11,0,1,90.9,out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),1,Scott Kuggeleijn,10,8,0,1,125.0,out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),1,Hemant Dhami,7,9,0,1,77.77,not out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),1,Abinash Bohara,1,3,0,0,33.33,out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),2,Dinesh Adhikari,42,13,1,5,323.07,out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),2,D'Arcy Short,14,13,3,0,107.69,out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),2,Niroshan Dickwella ,11,12,1,0,91.66,not out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),2,Rohit Paudel (c),16,12,2,1,133.33,out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),2,Sundeep Jora,0,3,0,0,0.0,out
+32,Sudur Paschim Royals vs Lumbini Lions (Final),2,Dilip Nath,1,1,0,0,100.0,not out
