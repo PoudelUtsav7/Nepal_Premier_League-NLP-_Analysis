@@ -1,4 +1,4 @@
-## Nepal Premier League - Cricket Analytics Dashboard
+## 🇳🇵 Nepal Premier League - Cricket Analytics Dashboard
 An end-to-end data analytics project covering the Nepal Premier Leagure (NPL), combining data collection, cleaning, transformation, and interactive Power BI dashboards batting and bowling performance analysis
 
 ## Project Overview
